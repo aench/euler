@@ -1,7 +1,5 @@
 
-# Project Euler Problem 6: the sum of square of the first ten natural numbers is, 385, the square of the sum is 3025
-# then the difference is 3025-385=2640. Compute the difference of the square of the sum and sum of squares of numbers
-# from 1 to 100
+# Project Euler Problem 7: what is the 10001th prime number?
 
 def isDivisibleby(n,a):
     if (n % a == 0):
